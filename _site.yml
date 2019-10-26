@@ -6,8 +6,8 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg
-      href: mailto:<you@youremail.com>
+      href: mailto:<qyc713@gmail.com>
     - icon: fa-github fa-lg
-      href: http://github.com/<YOUR_GH_NAME>/
+      href: https://github.com/qi-yuchen/website_practice.github.io
 output:
   html_document
